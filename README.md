@@ -1,10 +1,10 @@
-Hi 👋 My name is Teeshyna Jhummun
+Hi 👋 My name is Teeshyna 
 =================================
 
 Data Analyst
 ------------
 
-Hi! I'm a freelance data analyst with a strong passion for transforming raw data into meaningful insights. I’m skilled in Python, SQL, and love bringing data stories to life through powerful visualizations using Power BI and Looker Studio. I've collaborated on diverse projects that demand both analytical precision and creative thinking 💡📊
+Hi! I'm a data analyst with a strong passion for transforming raw data into meaningful insights. I’m skilled in Python, SQL, and love bringing data stories to life through powerful visualisations using Power BI and Looker Studio. I've collaborated on diverse projects that demand both analytical precision and creative thinking 💡📊
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [t.jhummun@hotmail.com](mailto:t.jhummun@hotmail.com)
